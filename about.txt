@@ -1,0 +1,1 @@
+Highly fluctuated time series data analysis of US WTI and Europe Brent crude oil spot prices for the year 1986 to 2016. Performed data manipulation using log transformation, moving averages and log difference methods to eliminate the non stationary trends in Python . Crude oil prices predicted for next 6 months (MayOct 2017) using ARIMA Model.
